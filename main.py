@@ -156,4 +156,13 @@ def gameLoop():
     pygame.quit()
     quit()
 
-gameLoop()
+gameLoop()  
+
+
+BLACK = (0, 0, 0)
+RED = (209, 3, 3)
+GREEN = (0, 255, 0)
+YELLOW = (255, 200, 57)
+CYAN = (110, 157, 64)
+ORANGE = (239, 79, 79)
+GOLD = (255, 215, 0)
